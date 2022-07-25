@@ -1,0 +1,18 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.6",
+    "sass": "^1.53.0"
+  },
+  "dependencies": {
+    "@pinia/nuxt": "^0.3.0",
+    "pinia": "^2.0.16",
+    "pinia-plugin-persistedstate": "^1.6.3"
+  }
+}
