@@ -16,7 +16,8 @@ function getStepPath(step) {
   }
 }
 
-await navigateTo(getStepPath(formStore.currentStepIndex), { replace: true })
+// todo: cannot use await keyword here unline official documantation 
+navigateTo(getStepPath(formStore.currentStepIndex), { replace: true })
 </script>
 
 <template><div></div></template>

@@ -14,6 +14,7 @@ export default defineNuxtConfig({
         routes: ['/', '/form', '/form/contact-info', '/form/membership', '/form/overview']
       }
     },
+    // todo: add env var for gh-pages
     app: {
       baseURL: '/nuxt3-contact-form/'
     }
