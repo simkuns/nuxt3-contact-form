@@ -1,5 +1,9 @@
 # nuxt3-contact-form
 
+[![Build gh-pages](https://github.com/simkuns/nuxt3-contact-form/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/simkuns/nuxt3-contact-form/actions/workflows/build.yml)
+
+## Demo: [https://simkuns.github.io/nuxt3-contact-form/](https://simkuns.github.io/nuxt3-contact-form/)
+
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
