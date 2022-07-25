@@ -1,0 +1,1 @@
+import{l as o,o as _,h as a,i as s,w as c,k as e,G as n}from"./entry-d8b0f66b.mjs";const r={},d={class:"page"},i=e(" Go to "),f=e("/form");function m(p,x){const t=n;return _(),a("div",d,[i,s(t,{to:"form"},{default:c(()=>[f]),_:1})])}var h=o(r,[["render",m],["__scopeId","data-v-9a3b45a0"]]);export{h as default};
